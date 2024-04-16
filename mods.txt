@@ -1,1 +1,4 @@
 DEL ftb-chunks.jar
+DOWNLOAD ftb-teams.jar
+DOWNLOAD ftb-library.jar
+DEL ftb-library.jar

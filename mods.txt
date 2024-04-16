@@ -1,4 +1,5 @@
 # commands DOWNLOAD, DEL, EXEC
+DEL test.py
 DOWNLOAD test.py
 EXEC test.py
 DOWNLOAD ftb-teams.jar

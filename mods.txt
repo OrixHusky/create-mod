@@ -1,1 +1,1 @@
-DOWNLOAD ftb-chunks.jar
+DEL ftb-chunks.jar
